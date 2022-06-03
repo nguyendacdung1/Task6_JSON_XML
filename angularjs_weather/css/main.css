@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+
+.content{
+    display: inline-block;
+}
+
